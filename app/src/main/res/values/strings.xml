@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RandomNumberGenerator</string>
+    <string name="title">Title</string>
+    <string name="number">number</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="generate">Generate</string>
+    <string name="clear">Clear</string>
+    <string name="exit">Exit</string>
+    <string name="_30">30</string>
+    <string name="todo">TODO</string>
+</resources>
